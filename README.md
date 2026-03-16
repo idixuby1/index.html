@@ -10,7 +10,7 @@ background-color:#111;
 color:white;
 }
 
-.logo{
+.logo{images - 2026-03-03T054620.224.jpeg)
 width:180px;
 margin-top:20px;
 border-radius:50%;
