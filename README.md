@@ -1,5 +1,4 @@
 
-<html>
 <head>
 <title>Real Lion FC</title>
 
