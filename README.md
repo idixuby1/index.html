@@ -1,5 +1,4 @@
-# index.html
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Real Lion FC</title>
