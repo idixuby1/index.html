@@ -10,7 +10,7 @@ background-color:#111;
 color:white;
 }
 
-.logo{images - 2026-03-03T054620.224.jpeg)
+.logo{
 width:180px;
 margin-top:20px;
 border-radius:50%;
@@ -29,7 +29,7 @@ border-radius:10px;
 
 <body>
 
-<img src="lionfc-logo.jpg" class="logo">
+<img src="images - 2026-03-03T054620.224.jpeg"class="logo">
 
 <h1>⚽ REAL LION FC</h1>
 
